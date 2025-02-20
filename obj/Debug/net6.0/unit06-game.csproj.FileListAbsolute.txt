@@ -1,0 +1,5 @@
+/Users/andrew/Desktop/unit06-game/obj/Debug/net6.0/unit06-game.csproj.AssemblyReference.cache
+/Users/andrew/Desktop/unit06-game/obj/Debug/net6.0/unit06-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew/Desktop/unit06-game/obj/Debug/net6.0/unit06-game.AssemblyInfoInputs.cache
+/Users/andrew/Desktop/unit06-game/obj/Debug/net6.0/unit06-game.AssemblyInfo.cs
+/Users/andrew/Desktop/unit06-game/obj/Debug/net6.0/unit06-game.csproj.CoreCompileInputs.cache
