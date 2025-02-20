@@ -2,7 +2,7 @@
 
 Created By: Taylor Shaw, Andrew Stamm, Curtis Disl
 
-## Discription
+## Description
 
 - This is a survival game. The objective of the game
   is to dodge debris and collect scrap to repair the
@@ -11,8 +11,8 @@ Created By: Taylor Shaw, Andrew Stamm, Curtis Disl
 
 ## Controls
 
-- Use Arrow keys to move left and right
-- Use Spacebar or the Up Arrow to Jump
+- Use arrow keys to move left and right
+- Use spacebar or the up arrow to jump
 - Press Enter to start the game or launch the rocket
 
 ---
