@@ -17,8 +17,5 @@ Created By: Taylor Shaw, Andrew Stamm, Curtis Disl
 
 ---
 
-The original repository for this project can be found here:
-
-- https://github.com/LazyBones1313/Da-bois/tree/main/unit06-game
-
+The original repository for this project can be found [here] (<https://github.com/LazyBones1313/Da-bois/tree/main/unit06-game>).
 Note that the origional version was set up with .NET 6 whereas this version uses .NET 8.
