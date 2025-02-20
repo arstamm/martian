@@ -2,7 +2,7 @@
 
 Created By: Taylor Shaw, Andrew Stamm, Curtis Disl
 
-## Discription
+## Description
 
 - This is a survival game. The objective of the game
   is to dodge debris and collect scrap to repair the
